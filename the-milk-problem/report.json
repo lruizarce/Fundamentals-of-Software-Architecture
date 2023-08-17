@@ -1,0 +1,28 @@
+{
+  "individualResults": [
+    {
+      "initialSchemaVersion": null,
+      "targetSchemaVersion": "1",
+      "schemaName": "",
+      "migrations": [
+        {
+          "category": "Versioned",
+          "version": "1",
+          "description": "initial schema",
+          "type": "SQL",
+          "filepath": "/Users/luisruiz/Desktop/Fundementals of Software Architecture/Fundementals-of-Software-Architecture/the-milk-problem/databases/milk/V1__initial_schema.sql",
+          "executionTime": 7
+        }
+      ],
+      "migrationsExecuted": 1,
+      "success": true,
+      "flywayVersion": "9.21.1",
+      "database": "milk_development",
+      "warnings": [],
+      "timestamp": "2023-08-17T10:38:57.290690",
+      "operation": "migrate",
+      "exception": null,
+      "licenseFailed": false
+    }
+  ]
+}
